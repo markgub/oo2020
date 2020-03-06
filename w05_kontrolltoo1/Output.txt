@@ -1,0 +1,4 @@
+Arvud, mis on alla 50%: [0, 1, 4, 6]
+Arvud, mis on 25% ja 75% vahel: [4, 6, 7, 8]
+Arvud, mis on suurem kui 25%: [4, 6, 7, 8, 9, 10, 11]
+Arvud, mis on algarvud : [7, 11]
