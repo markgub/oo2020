@@ -1,0 +1,10 @@
+MAMMAL; CANINE; MEDIUM; Koer
+REPTILE; CROCODILIA; BIG; Ameerika alligaator
+FISH; SHARK; BIG; Mõrtsukhai
+MAMMAL; CAT; BIG; Tiiger
+INVERTEBRATE; FLY; TINY; Harilik äädikakärbes
+MAMMAL; WHALE; HUGE; Sinivaal
+MAMMAL; CANINE; MEDIUM; Koiott
+AMPHIBIAN; FROG; TINY; Ranoidea phyllochroa
+FISH; SHARK; SMALL; Kalifornia härghai
+REPTILE; VARANUS; BIG; Komodo varaan
